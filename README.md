@@ -1,5 +1,7 @@
 ![](images/icon.png)
 
+学习HenCoder自定义view 1-1 后的练习项目
+
 HenCoder 绘制 1 练习项目
 ===
 

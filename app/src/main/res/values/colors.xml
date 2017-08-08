@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="sector1">#FFC107</color>
+    <color name="sector2">#009688</color>
+    <color name="sector3">#2196F3</color>
+    <color name="sector4">#9C27B0</color>
+    <color name="sector5">#9E9E9E</color>
+    <color name="sector6">#E77841</color>
+    <color name="sector7">#E94E27</color>
+    <color name="sector8">#5DD3DE</color>
+</resources>
